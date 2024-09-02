@@ -11,7 +11,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Golang, Backend**
-- 📫 Reach me by [email](alexandermonako@gmail.com)
+- 📫 Reach me by alexandermonako@gmail.com
 - 🌍 I speak English(A2), Russian
 
 ---
@@ -23,7 +23,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="git" width="40" height="40"/>&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="git" width="40" height="40"/>&nbsp;
 
 
