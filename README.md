@@ -12,7 +12,7 @@
 ### About me
 - 🌱 I’m currently learning **Golang, Backend**
 - 📫 Reach me by alexandermonako@gmail.com
-- 🌍 I speak English(A2), Russian
+- 🌍 I speak English(B1), Russian(Native)
 
 ---
 
